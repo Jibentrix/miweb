@@ -1,4 +1,7 @@
 cerdito 2
 
+cambio de información esto es para RamaC
 
-cambios en Rama B
+
+
+quiero entender como es uqe se sincronizan los archivos
